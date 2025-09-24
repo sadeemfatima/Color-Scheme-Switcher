@@ -1,0 +1,2 @@
+# Color Scheme Switcher
+The Color Scheme Switcher is a simple and interactive web application that allows users to change the background color of a webpage by clicking on color-themed buttons. Each button is styled with a distinct color, and when clicked, it dynamically updates the background color of the page to match.  This project is built using HTML, CSS, and JavaScript, and demonstrates the use of:  DOM manipulation  Event handling  Basic styling and layout  Responsive and user-friendly UI components
