@@ -1,0 +1,89 @@
+/**{
+    padding: 0;
+    margin: 0;
+}
+
+.firstdiv{
+    justify-content: center;
+    height: 70vh;
+}
+#pink{
+    background-color: rgb(137, 21, 41);
+   
+   
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+.btn{
+     height: 10vmin;
+    width: 10vmin;
+    border: none;
+    box-shadow: 006px;
+    gap: 1.5vmin;
+}*/
+
+/* Global styles */
+body {
+    background-color: #f0e4e4;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color 0.5s ease;
+    padding: 50px;
+}
+
+/* Heading */
+#heading {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #333;
+}
+
+/* Button styling */
+.btn {
+    width: 60px;
+    height: 60px;
+    border: none;
+    border-radius: 50%;
+    margin: 10px;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease;
+}
+
+/* Button hover effect */
+
+
+/* Specific button colors */
+#pink {
+    background-color: pink;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: gold;
+}
+
+/* Info text */
+h4 {
+    margin-top: 40px;
+    color: #555;
+    font-size: 1.2rem;
+}
+
+
+
